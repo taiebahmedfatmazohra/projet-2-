@@ -1,0 +1,219 @@
+*{
+padding:0;
+margin:0;
+box-sizing:border-box;
+
+}
+img{
+width:100%;
+height:auto;
+object-fit:cover;
+}
+header{
+font-size: 15px;
+}
+#fat{
+background-image:url(1680515761623.jpg);
+background-size: cover;
+background-position:center;
+background-repeat:no-repeat;
+height:70vh;
+color:white;
+}
+#fat0{
+font-size: 22px;
+font-Family:serif;/*اسم الخط */
+height: 100px;
+text-align: center;
+letter-spacing:1vh;/*التباعد بين الحروف*/
+border-top: 100px solid transparent;
+}
+#fat0 i{
+font-size: 50px;
+height:500px;
+border-top: 50px solid transparent
+}
+
+#fat1{
+background-image:url(1680515793556.jpg);
+background-size: cover;
+background-position:center;
+background-repeat:no-repeat;
+height:50vh;
+}
+#fat2{
+background-image:url(1680515784497.jpg);
+background-size: cover;
+background-position:center;
+background-repeat:no-repeat;
+height:50vh;
+}
+#fat4{
+background-image:url(1680515777836.jpg);
+background-size: cover;
+background-position:center;
+background-repeat:no-repeat;
+height:100vh;
+}
+#fat5{
+background-image:url(1680515745610.jpg);
+background-size: cover;
+background-position:center;
+background-repeat:no-repeat;
+height:100vh;
+}
+
+#fatma1{
+width:100%;
+height:300px;
+text-align: center;
+border-top: 50px solid transparent;
+}
+#fatma2{
+width:100%;
+height:300px;
+text-align: center;
+border-top: 50px solid transparent;
+}
+#fatma1 h2{
+font-size: 30px;
+font-Family:serif;
+}
+#fatma1 h4{
+font-size: 15px;
+font-Family:normal;
+color:gray;
+line-height: 1.7em;
+}
+#fatma1 h3{
+font-size:17px;
+text-decoration: underline;
+text-decoration-color:yellow;
+}
+#fatma2 h2{
+font-size: 34px;
+font-Family:serif;
+}
+#fatma2 h4{
+font-size: 15px;
+font-Family:normal;
+color:gray;
+line-height: 1.7em;
+}
+#fatma2 h3{
+font-size:17px;
+text-decoration: underline;
+text-decoration-color: red;
+}
+#fat4 h2{
+border-top: 500px solid transparent;
+text-align: center;
+font-size: 34px;
+color:#0B3B39;
+}
+#fat4 h4{
+border-top: 20px solid transparent;
+text-align: center;
+font-size: 15px;
+line-height: 1.7em;
+color:#0B3B39;
+}
+#fat5 h2{
+border-top: 500px solid transparent;
+text-align: center;
+font-size: 34px;
+color:#0B3B39;
+font-Family:normal;
+}
+#fat5 h4{
+border-top: 20px solid transparent;
+text-align: center;
+font-size: 15px;
+line-height: 1.7em;
+color:#0B3B39;
+}
+
+#fat6{
+text-align: center;
+letter-spacing:0.5vh;
+color:gray;
+border-top: 70px solid transparent;
+}
+#ma{
+width:100%;
+height:900px;
+text-align: center;
+}
+#ma img{
+display: block;
+width: 75px;
+height: 75px;
+border: 1px solid gray;
+border-radius: 100%;
+margin: 0 auto;
+}
+#im{
+border-top: 50px solid transparent;
+text-align: center;
+}
+#ma h4{
+line-height: 2em;
+font-size:14px;
+color:grey;
+border-top: 10px solid transparent;
+}
+#ma h5{
+color:#BDBDBD;
+}
+#na{
+border-top: 30px solid transparent;
+}
+#na h5{
+border-top: 10px solid transparent;
+}
+#fat7{
+
+}
+#fat7 img{
+width: 177px;
+height: 177px;
+}
+#fat8 img{
+width: 177px;
+height: 177px;
+}
+
+
+footer{
+background-image:url(1680628561303.jpg);
+background-size: cover;
+background-position:center;
+background-repeat:no-repeat;
+height:60vh;
+font-Family:normal;/*اسم الخط */
+line-height: 90px;
+text-align: center;
+}
+footer h2{
+font-size:3vh;/*حجم الحروف*/
+font-weight:900;
+text-align: center;
+color:teal;
+font-size: 34px;
+}
+footer h4{
+text-align: justify;
+color:teal;
+word-spacing: 90px;
+text-indent: 40px;
+font-size: 12px;
+}
+footer a:hover{ 
+text-decoration: underline; 
+color:white;
+}
+.social i{
+color:teal;
+font-size: 22px;/*حجم العناصر */
+padding-left: 21px;/*التباعد بين العناصر*/
+}
